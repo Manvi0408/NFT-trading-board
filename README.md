@@ -27,5 +27,5 @@ The NFT Trading Board is designed as a scalable platform with multiple opportuni
 
 Our mission is to continuously evolve the platform, making NFT trading more accessible, reliable, and empowering for users worldwide.
 
----
+
 
